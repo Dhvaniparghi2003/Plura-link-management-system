@@ -23,7 +23,7 @@ Plura is an advanced link management platform that allows you to shorten, track,
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Suhaib3100-29/Plura.git
+    git clone https://github.com/Dhvaniparghi2003/Plura-link-management-system.git
     ```
 2. Install dependencies:
     ```bash
